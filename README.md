@@ -16,11 +16,3 @@ letsdefend/
 ```
 
 For each exercise, document the alert or scenario, investigation steps, relevant evidence, conclusion, and lessons learned. Remove or redact credentials, tokens, personal information, and sensitive environment details before publishing.
-
-## Status
-
-No project files or lab write-ups were present when this README was added. Update this page as the repository's purpose and contents become established.
-
-## Responsible use
-
-Use the repository for authorized learning and defensive security practice. Do not publish real customer data, live secrets, or sensitive incident artifacts.
